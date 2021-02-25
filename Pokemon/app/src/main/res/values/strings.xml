@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Pokemon</string>
+    <string name="pokemon_characters">Pokemon Characters</string>
+    <string name="height">Height : %d</string>
+    <string name="weight">Weight : %d</string>
+    <string name="start_from">Start From</string>
+    <string name="quantity">Quantity</string>
+    <string name="moves">Moves</string>
+    <string name="move">Move</string>
+    <string name="no_network">No Network</string>
+</resources>
